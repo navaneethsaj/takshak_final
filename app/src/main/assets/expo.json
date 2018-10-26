@@ -1,0 +1,101 @@
+[
+    {
+        "event_name":"Avishkar 3.0",
+        "event_id":"1001",
+        "event_dept":"def",
+        "event_link":"https://takshak.in/2018/takshak/expo/",
+        "eventdesc": "a battle of masterminds, where young minds dream up ideas and make them a reality. It is a space for students, from far and wide to exhibit their talent and be rewarded for their skill.",
+        "category":  "Project Expo",
+        "imagename":"avishkar.jpg"
+    },
+    {
+        "event_name": "Weapon Expo",
+        "event_id": "1002",
+        "event_dept": "def",
+        "event_link": "https://takshak.in/2018/takshak/expo/",
+        "eventdesc":  "For the first time, the upcoming Weapon Expo, an exhibition of weapons and military hardware, will project India’s Defence manufacturing capabilities and showcase a range of indigenously developed military war craft and its potential to be a major global power. The officials said state-run defence manufacturer DRDO’s various weapon platforms including domestically designed and manufactured advanced Assault rifles, Light Artillery Guns, Technologies and other crafts will be major highlight of the Expo",
+        "category": "Weaponary",
+        "imagename": "weapon.jpg"
+
+    },
+    {
+        "event_name": "World tour",
+        "event_id": "1003",
+        "event_dept": "def",
+        "event_link": "https://takshak.in/2018/takshak/expo/",
+        "eventdesc":  "To arrange a visual treat for the audience by exhibiting the world ‘s best 10 destinations. To experience the beauty of mother nature and to explore the advancement of men in various fields. To fulfil the dream of travelling of a common man in the way possible for us.",
+        "category": "Visual Treat",
+        "imagename": "worldtour.jpg"
+
+    },
+    {
+        "event_name": "K-9",
+        "event_id": "1003",
+        "event_dept": "def",
+        "event_link": "https://takshak.in/2018/takshak/expo/",
+        "eventdesc":  "A police dog , known in some English-speaking countries as a 'K-9'  or 'K9 ',is a dog that is specifically trained to assist police and other law-enforcement personnel. 'K-9' is a expo created by Kerala Police Dog Squad. The viewer get a opportunity to see the skills and methods used by our state's pride force AmalVishnuJS-(8714469978)AdarshK-(9961054021)",
+        "category": "Expo",
+        "imagename": "k9.jpg"
+
+    },
+    {
+        "event_name": "ISRO",
+        "event_id": "1004",
+        "event_dept": "def",
+        "event_link": "https://takshak.in/2018/takshak/expo/",
+        "eventdesc":  "ISRO EXPO18' organised by Indian Space Research Organization,the pride of our nation helps in' Creating Dynamism In Indian Space Ecosystem'enabling New Space In India.ISRO is aiming towards building a stronger and vibrant ecosystem for manufacturing of satellites,space technology and other applications. The expo showcases ISRO's achievements and contributions in space based technologies and applications.The main attraction is that the visitors could touch and perceive actual engines and power heads used in ISRO's work horse launch vehicles and satellites. The main objective is to provide scientific awareness,increase knowledge and understanding of the benefits from space",
+        "category": "Expo",
+        "imagename": "isro.jpg"
+
+    },
+    {
+        "event_name": "Mixed Reality",
+        "event_id": "1005",
+        "event_dept": "def",
+        "event_link": "https://takshak.in/2018/takshak/expo/",
+        "eventdesc":  "In today's world, cutting edge technology revolves around the fast paced, the technologically skilled, the awakened engineers placed at the forefront of development of all kinds. Here at TAKSHAK2018,We bring to you, a hands on experience with mixed reality, an original rendezvous with the Microsoft hololens and a workshop thereafter. Sit back,Gear up and buckle yourselves up for the most enlightening ride of your life by registering for our workshop using the link given below",
+        "category": "Expo & workshop",
+        "imagename": "vr.jpg"
+
+    },
+    {
+        "event_name": "DUCATI",
+        "event_id": "1006",
+        "event_dept": "def",
+        "event_link": "https://takshak.in/2018/takshak/expo/",
+        "eventdesc":  "The roar of a Ducati is one of the most iconic ones in the world of superbikes. It is truly a spectacle to behold. Do you maybe want to build one of these magnificent beasts one day? Come to Takshak 18 and be part of an interactive session with the official from Ducati. As part of the many talks and workshops conducted as part of Takshak 18, officials from Ducati are conducting talk on how their bikes are made and what really goes in to building one of the most powerful superbikes in the game. Interested, go ahead and register for what could set you on a path to create a Ducati of your own one day",
+        "category": "Talk & Expo",
+        "imagename": "ducati.jpg"
+
+    },
+    {
+        "event_name": "JEEP",
+        "event_id": "1007",
+        "event_dept": "def",
+        "event_link": "https://takshak.in/2018/takshak/expo/",
+        "eventdesc":  "The roar of an engine is like music to a car enthusiasts ears. And what better exemplifies this than the vehicles made by Jeep. Have you wondered how Jeeps work? How they're designed maybe? Well the answer to your questions is here. An interactive sessions with the officials of Jeep is what Takshak offers, register below to learn about these magnificent cars.",
+        "category": "Vehicles",
+        "imagename": "jeep.jpg"
+
+    },
+    {
+        "event_name": "ELECTRO XPO '18",
+        "event_id": "1008",
+        "event_dept": "def",
+        "event_link": "https://takshak.in/2018/takshak/expo/",
+        "eventdesc":  "ELECTRO XPO '18 is the biggest showcase of the world of electricity organised by Kerala State Electricity Board Ltd (KSEB), and Agency for Non-Conventional Energy and Rural Technology (ANERT) at Takshak '18 in Mar Athanasius College of Engineering, Kothamangalam.The expo brings together complete spectrum of solutions that powers the planet, featuring equipment, technology and peerless thought leadership platforms for technical conferences and industry summits. Lijin itty cherian - 8289809106 Nandith M D - 8086150252 Jerry thomas - 9496721775",
+        "category": "Expo",
+        "imagename": "kseb.jpg"
+
+    },
+    {
+        "event_name": "Exposium",
+        "event_id": "1009",
+        "event_dept": "def",
+        "event_link": "https://takshak.in/2018/takshak/expo/",
+        "eventdesc": "We welcome you to come and see the magic  of technology.Artificial Neural Networks,3D printing,World of AR and VR,Robotics & Automation,Internet of Things,...and the list goes on.Come and witness the Future.",
+        "category": "Expo",
+        "imagename": "exposium.jpg"
+    }
+
+]

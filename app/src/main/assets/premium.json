@@ -1,0 +1,72 @@
+[
+    {
+        "event_name":"Colloquium",
+        "event_id":"01",
+        "event_dept":"Premium",
+        "event_link":"https://takshak.in/2018/takshak/premium/",
+        "eventdesc": "Colloquium 2k18 is a large scale placement drive conducted as part of Takshak '18. Candidates will go through 4 rounds of testing and curation and will be presented to out recruiters. With the first 3 rounds of test, the first two can be attended from home and the last one is attended in person. After which depeneding on the field of expertise that you have opted for you'll be either send to a case study presentation or a coding round and finally the candidates are interviewed and employed depending on their performance.",
+        "category":"Technical",
+        "imagename":"coloquim.jpg"
+    },
+    {
+        "event_name": "SPHINX",
+        "event_id": "2",
+        "event_dept": "Premium",
+        "event_link": "https://takshak.in/2018/takshak/premium/",
+        "eventdesc": "Unravel the mysteries of the SPHINX as you fathom the depth of the maze, If you think you can make it through, well you think narrow, Get lost in the darkness, or find yourself, The treasure awaits, And only a true champion can rise",
+        "category": "Adventure",
+        "imagename": "sphinx.jpg"
+
+    },
+    {
+        "event_name": "Hackathon",
+        "event_id": "3",
+        "event_dept": "Premium",
+        "event_link": "https://takshak.in/2018/takshak/premium/",
+        "eventdesc":  "Looking for a platform to exhibit your technical skills? Are you a techie with great problem solving skills? That's why Takshak has come up with a fabulous social coding event 'Hackathon'. Come let's explore and learn together the New avenues and possibilities in technology. Let's discover the fresh talents in us and weave epic ideas.",
+        "category": "Technical",
+        "imagename": "hackathon.jpg"
+
+    },
+    {
+        "event_name": "Chackravyuha",
+        "event_id": "4",
+        "event_dept": "Premium",
+        "event_link": "https://takshak.in/2018/takshak/premium/",
+        "eventdesc":  "Are you a socially responsible person? Do you aspire in fulfilling your social commitments by adding a tinge of science in it? Well, then you re on the right track......! Recently occurred floods has broken down Kerala, Our God's own Country and its people, from which we haven’t recovered, yet. Our event CHAKRAVYUHA of TAKSHAK'18 provides an opportunity to propose your contributions to our society. Grab on to this golden chance in bringing out your innovative, out-of-the-box solutions in reducing the occurrence and impact of Catastrophic Disasters.",
+        "category": "Technical",
+        "imagename": "cha.jpg"
+
+    },
+    {
+        "event_name": "AirDrop",
+        "event_id": "4",
+        "event_dept": "Premium",
+        "event_link": "https://takshak.in/2018/takshak/premium/",
+        "eventdesc":  "Who doesn’t like to venture in a hot air balloon?? TAKSHAK 2018 is here with an aerodynamic workshop.It includes live practical experience of hot air ballooning and can grab the opportunity to ride on a hot air balloon with the assistance of expert pilots.",
+        "category": "Adventure",
+        "imagename": "air.jpg"
+
+    },
+    {
+        "event_name": "Best Engineer",
+        "event_id": "5",
+        "event_dept": "Premium",
+        "event_link": "https://takshak.in/2018/takshak/premium/",
+        "eventdesc":  "Driven by curiosity people seek to explore the world. Takshak'18 provides a platform to explore the best one in you , the 'Best Engineer'. It's all about how you can make up the situation with your knowledge and skills. The event is all about scrutiny of the participant in all aspects , the knowledge , practical skills, presentation skills and communication skills which all together makes an engineer best.",
+        "category": "Technical",
+        "imagename": "best.jpg"
+
+    },
+    {
+        "event_name": "Roadies",
+        "event_id": "6",
+        "event_dept": "Premium",
+        "event_link": "https://takshak.in/2018/takshak/premium/",
+        "eventdesc":  "Are you daring enough to get on some adventures? Is risk taking one of your personality traits?Then give this a try and challenge yourself. The event Roadies has come up with exciting tasks and games.This time your actions, choices, decisions everything matters!!",
+        "category": "Action",
+        "imagename": "roadies.jpg"
+
+    }
+
+]

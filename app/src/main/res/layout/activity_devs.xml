@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fcf8f8"
+    tools:context="takshak.mace.takshak2k18.devs">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <android.support.v7.widget.CardView
+            android:id="@+id/nav"
+            android:layout_width="match_parent"
+            android:layout_margin="5dp"
+            app:cardElevation="10dp"
+            app:cardBackgroundColor="#ffffff"
+            android:layout_height="250dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:textColor="@color/colorPrimary"
+                    android:fontFamily="@font/baloo_thambi"
+                    android:gravity="center_horizontal"
+                    android:text="Navaneeth K"
+                    android:textSize="25dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/colorPrimary"
+                    android:fontFamily="@font/baloo_thambi"
+                    android:gravity="center_horizontal"
+                    android:text="Developer"
+                    android:alpha=".5"
+                    android:textSize="15dp" />
+                    <ImageView
+                        android:id="@+id/navaneeth"
+                        android:src="@drawable/navaneeth"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp" />
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:id="@+id/arv"
+            android:layout_width="match_parent"
+            android:layout_margin="5dp"
+            app:cardElevation="10dp"
+            app:cardBackgroundColor="#FFFFFF"
+            android:layout_height="250dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/colorPrimary"
+                    android:fontFamily="@font/baloo_thambi"
+                    android:gravity="center_horizontal"
+                    android:text="Aravind Balakrishnan"
+                    android:textSize="25dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:textColor="@color/colorPrimary"
+                    android:fontFamily="@font/baloo_thambi"
+                    android:gravity="center_horizontal"
+                    android:text="Developer"
+                    android:alpha=".5"
+                    android:textSize="15dp" />
+
+                <ImageView
+                    android:id="@+id/aravind"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_width="150dp"
+                    android:src="@drawable/aravind"
+                    android:layout_height="150dp" />
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_margin="5dp"
+            android:id="@+id/aks"
+            app:cardElevation="10dp"
+            app:cardBackgroundColor="#FFFFFF"
+            android:layout_height="250dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:textColor="@color/colorPrimary"
+                    android:fontFamily="@font/baloo_thambi"
+                    android:gravity="center_horizontal"
+                    android:text="Akshay Pradeep P L"
+                    android:textSize="25dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@color/colorPrimary"
+                    android:fontFamily="@font/baloo_thambi"
+                    android:gravity="center_horizontal"
+                    android:text="Design Aid"
+                    android:alpha=".5"
+                    android:textSize="15dp" />
+
+                <ImageView
+                    android:id="@+id/akshay"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_width="150dp"
+                    android:src="@drawable/akshay"
+                    android:layout_height="150dp" />
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+
+
+</ScrollView>

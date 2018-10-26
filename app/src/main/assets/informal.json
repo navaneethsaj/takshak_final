@@ -1,0 +1,135 @@
+[
+    {
+        "event_name":"PaintBall",
+        "event_id":"1001",
+        "event_dept":"Informal",
+        "event_link":"https://takshak.in/2018/takshak/informal/",
+        "eventdesc":  "Sometimes the only way to resolve a conflict is to fight it out, so here's your chance. You and your team are going to paint your opponents in multiple shades of shame.",
+        "category":"Adventure",
+        "imagename":"paintball.jpg"
+    },
+    {
+        "event_name": "Photography",
+        "event_id": "1002",
+        "event_dept": "Informal",
+        "event_link": "https://takshak.in/2018/takshak/informal/",
+        "eventdesc":  "Breaking news, the shutterbug has been going around, if you think you're affected we may have a way for you to manage your symptoms. Photograph Takshak and you may go home with a prize.",
+        "category": "Arts",
+        "imagename": "photo.jpg"
+
+    },
+    {
+        "event_name": "Laser tag",
+        "event_id": "1003",
+        "event_dept": "Informal",
+        "event_link": "https://takshak.in/2018/takshak/informal/",
+        "eventdesc":  "Ladies and Gentlemen, we have guns that shoot lasers, welcome to the future. Shoot your opponent with a ray of Light Amplified by Stimulated Emission of Radiation and knock him out of the game.",
+        "category": "Action",
+        "imagename": "lasertag.jpg"
+
+    },
+    {
+        "event_name": "Zorbing",
+        "event_id": "1003",
+        "event_dept": "Informal",
+        "event_link": "https://takshak.in/2018/takshak/informal/",
+        "eventdesc": "A fun way to spend your time in an inflatable transparent ball of air. Run into each other, fall on the ground or roll down the side of a hill you can do whatever you want with no fear of getting hurt.",
+        "category": "Action",
+        "imagename": "zorbing.jpg"
+
+    },
+    {
+        "event_name": "Mech bull",
+        "event_id": "1004",
+        "event_dept": "Informal",
+        "event_link": "https://takshak.in/2018/takshak/informal/",
+        "eventdesc":  "Yeehaw cowboy. Do y'all have the skill and the resolution to last on Takshaks’ very own mechanical bull. Hold onto your tater tots cause this is going to be the ride of a lifetime",
+        "category": "Action",
+        "imagename": "bull.jpg"
+
+    },
+    {
+        "event_name": "Minute to win",
+        "event_id": "1005",
+        "event_dept": "Informal",
+        "event_link": "https://takshak.in/2018/takshak/informal/",
+        "eventdesc":  "All you have are 60 seconds and all you need is a competitive spirit. A competition inspired by the world-famous game show, we have tasks that you need to complete in a minute and who knows you may just win it.",
+        "category": "Adventure",
+        "imagename": "mintowin.jpg"
+
+    },
+    {
+        "event_name": "Pillow fight",
+        "event_id": "1006",
+        "event_dept": "Informal",
+        "event_link": "https://takshak.in/2018/takshak/informal/",
+        "eventdesc":  "Two knights born during the harsh winters, from beyond them hills yonder, poised on raised platforms, armed with nothing but the toughest, most well-craft pillows in the seven kingdoms. That's right, it's time for pillow fights ladies and gentlemen.",
+        "category": "Sports",
+        "imagename": "pillow.jpg"
+
+    },
+    {
+        "event_name": "Cricket",
+        "event_id": "1007",
+        "event_dept": "Informal",
+        "event_link": "https://takshak.in/2018/takshak/informal/",
+        "eventdesc":  "Great players like Sachin Tendulkar, Ravi Shastri, Mithali Raj, and Harmanpreet Kaur have left their mark in this world and now it's your teams and your chance to prove your worth in a game of cricket.",
+        "category": "Sports",
+        "imagename": "cricket.jpg"
+
+    },
+    {
+        "event_name": "Football",
+        "event_id": "1008",
+        "event_dept": "Informal",
+        "event_link": "https://takshak.in/2018/takshak/informal/",
+        "eventdesc":  "The names Ronaldo, Messi, Pele, and Maradona are recognized anywhere in the world now and they all had to start somewhere. This may be your launchpad into the world of football. Come to Takshak and show the world what you've got.",
+        "category": "Sports",
+        "imagename": "football.jpg"
+
+    },
+    {
+        "event_name": "Hotspot",
+        "event_id": "1008",
+        "event_dept": "Informal",
+        "event_link": "https://takshak.in/2018/takshak/informal/",
+        "eventdesc":  "The more the merrier, that is what Takshak is all about. And it is with this mantra in mind that we have planned for random interactions with all the attendees of Takshak. It may be after, prior to or even during events and all these interactions will be live streamed on our social media platforms.",
+        "category": "Socio",
+        "imagename": "hotspot.jpg"
+
+    },
+    {
+        "event_name": "Shoot out balloon",
+        "event_id": "1008",
+        "event_dept": "Informal",
+        "event_link": "https://takshak.in/2018/takshak/informal/",
+        "eventdesc":  "It’s wabbit season, so let’s get the rifles out and practice our aim by shooting some balloons into oblivion.",
+        "category": "Adventure",
+        "imagename": "balloon.jpg"
+
+    },
+    {
+        "event_name": "Hoverboard",
+        "event_id": "1008",
+        "event_dept": "Informal",
+        "event_link": "https://takshak.in/2018/takshak/informal/",
+        "eventdesc":  "For the people who found walking too slow but running too fast, the hoverboard was created. While we aren’t close to what Marty McFly had, it’s definitely a step in the right direction.",
+        "category": "Tech",
+        "imagename": "hoverboard.jpg"
+
+  },
+  {
+      "event_name": "Treasure Hunt",
+      "event_id": "1008",
+      "event_dept": "Informal",
+    "event_link": "https://takshak.in/2018/takshak/informal/",
+      "eventdesc":  "To explore is an art and what exemplifies this trait better than a treasure hunt. Explore MACE and all of Kothamangalam in this riveting and exciting hunt for treasure.",
+      "category": "Adventure",
+      "imagename": "treasurehunt.jpg"
+
+  }
+
+
+
+
+]

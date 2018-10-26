@@ -1,0 +1,72 @@
+[
+    {
+        "event_name":"Revit Architecture",
+        "event_id":"1001",
+        "event_dept":"def",
+        "event_link":"https://takshak.in/2018/takshak/workshop/",
+        "eventdesc": "Lay down the bricks firm and trod from Conceptual to Visualisation. The Civil Engineering Department of MACE gives you an opportunity to grasp the basics of REVIT Architecture. This workshop will help you improve in accuracy and optimisation for your projects. The workshop is certified by Autodesk and will be led by highly experienced tutors in the Revit Software.",
+        "category":"Workshop",
+        "imagename":"revit.jpg"
+    },
+    {
+        "event_name": "ROBOWAR",
+        "event_id": "1002",
+        "event_dept": "def",
+        "event_link": "https://takshak.in/2018/takshak/workshop/",
+        "eventdesc":  "We are all fascinated by autobots.Are you having basic electronic machine skills ?What if we get an oppurtunity to play a soccer game using these robos? Lets see who has the skills in these extremely powerful futuristic robots.The competition focuses mainly to test your abilities and also how you pursue your goals",
+        "category": "Workshop",
+        "imagename": "robowar.jpg"
+
+    },
+    {
+        "event_name": "CAD workshop",
+        "event_id": "1003",
+        "event_dept": "def",
+        "event_link": "https://takshak.in/2018/takshak/workshop/",
+        "eventdesc":  "AutoCAD is a computer aided drafting software to create 2-3D technical drawing,develop template files and coordinate reference drawing ▪One day workshop on Autocad.Trainees from cad center ▪Autodesk certificates will be provided.",
+        "category": "Workshop",
+        "imagename": "autocad.jpg"
+
+    },
+    {
+        "event_name": "C WORKSHOP",
+        "event_id": "1003",
+        "event_dept": "def",
+        "event_link": "https://takshak.in/2018/takshak/workshop/",
+        "eventdesc":  "The C workshop mainly focuses on giving a brief but clear concept about the grammar and functionality of C programming. This workshop is a one day event covering all the basic concepts of C language needed for providing firm base for learning advanced coding.",
+        "category": "Workshop",
+        "imagename": "c.jpg"
+
+    },
+    {
+        "event_name": "ARDUINO WORKSHOP",
+        "event_id": "1004",
+        "event_dept": "def",
+        "event_link": "https://takshak.in/2018/takshak/workshop/",
+        "eventdesc":  "Arduino, one of the most sought after programmable hardware, has turned out to be the simple handy tool for all our engineering projects. The Electrical and Electronics engineering department of MACE will conduct a full day workshop on Arduino programming. From understanding what an Arduino is, to building a quick basic yet innovative project right way is what you’ll witness in the workshop.",
+        "category": "Workshop",
+        "imagename": "arduino.jpg"
+
+    },
+    {
+        "event_name": "PLC and SCADA WORKSHOP",
+        "event_id": "1005",
+        "event_dept": "def",
+        "event_link": "https://takshak.in/2018/takshak/workshop/",
+        "eventdesc":  "Bring the power of your workspace to your finger tip,from turning on, tuning your controls and sipping the wonder of automated technology from anywhere. The Electrical and Electronics Department of Mar Athanasius College of Engineering Kothamangalam in partnership with RoboKart and Innovation cell of IIT BOMBAY conducts a one-day workshop on PLC and SCADA, a tool for Industrial Automation.",
+        "category": "Workshop",
+        "imagename": "plc.jpg"
+
+    },
+    {
+        "event_name": "IoT WORKSHOP",
+        "event_id": "1006",
+        "event_dept": "def",
+        "event_link": "https://takshak.in/2018/takshak/workshop/",
+        "eventdesc": "A phenomenon engulfing all that was once considered tedious or maybe.. impossible. Internet of Things (IoT) is taking its step to make our day to day lives much more easier. The Electronics and Communications department of MACE hosts a one day workshop on IoT. Session would focus on the basics, ESP8266 and NodeMCU, clubbed with Arduino IDE, ThinkSpeak cloud platform, data updation and wifi control using Cloud, and IoT based apps. Team Mak3rspace will lead the workshop in full swing.",
+        "category": "Workshop",
+        "imagename": "iot.jpg"
+
+    }
+
+]

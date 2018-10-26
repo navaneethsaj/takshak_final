@@ -1,0 +1,114 @@
+[
+    {
+        "event_name":"Rewired",
+        "event_id":"1001",
+        "event_dept":"EC",
+        "event_link":"https://takshak.in/2018/takshak/technical/",
+        "eventdesc": "Ready to cut, strip & join wire. Eager to show-off your skills in wiring. Then buy tickets to REWIRED. Compete where wiring conditions are realized on a wooden board. This competition is to test the ability of students to test their knowledge in basic electrical & electronics, finding, solving problems & designing electrical circuits. Flaunt your calibre as an electrical engineer & win exciting prizes worth 8k.",
+        "category":"Technical",
+        "imagename":"rewiring.jpg"
+    },
+    {
+        "event_name": "RC league",
+        "event_id": "1002",
+        "event_dept": "EC",
+        "event_link": "https://takshak.in/2018/takshak/technical/",
+        "eventdesc":  "Ever wanted to play soccer with cars? Join us in playing the most popular game of soccer and win big. Unleash that inner soccer demon and compete in a league of players and see if you have what it takes to be the champion.",
+        "category": "Game",
+        "imagename": "rcleague.jpg"
+
+    },
+    {
+        "event_name": "Junkyard",
+        "event_id": "1003",
+        "event_dept": "Mechanical",
+        "event_link": "https://takshak.in/2018/takshak/technical/",
+        "eventdesc": "Junkyard is a fun, intellectual, spectacular and an exposure to real life situation for a mechanical engineer. One can express his/her views and ideas to crack open the door to the mechanical engineering field. Oneday trip to explore the vivid branches of mechanical.",
+        "category": "Technical",
+        "imagename": "junkyard.jpg"
+
+    },
+    {
+        "event_name": "Kurukshetra",
+        "event_id": "1003",
+        "event_dept": "Civil",
+        "event_link": "https://takshak.in/2018/takshak/technical/",
+        "eventdesc":  "Unchain your minds and setforth to witness a contest to challenge your creative and thinking skills.'Kurukshetra' is here to open up new possibilities with your powerful minds.Step ahead , sell your thoughts and bag your prizes.",
+        "category": "Technical",
+        "imagename": "kurukshetra.jpg"
+
+    },
+    {
+        "event_name": "Ardu-Hacker",
+        "event_id": "1004",
+        "event_dept": "EC",
+        "event_link": "https://takshak.in/2018/takshak/technical/",
+        "eventdesc": "Have you explored the colorful world of Arduino? Got the skills to tackle the challenges of codes and circuits? Then blast through the rounds of quizzes, coding and debugging and become the Ardu-Hacker Champion",
+        "category": "Technical",
+        "imagename": "arduhacker.jpg"
+
+    },
+    {
+        "event_name": "Logica",
+        "event_id": "1005",
+        "event_dept": "Civil",
+        "event_link": "https://takshak.in/2018/takshak/technical/",
+        "eventdesc":  "LOGICA let’s you showcase your technical and logical reasoning skills. LOGICA concentrate to bring out your ability and intelligence in the field of basic electronics. There will be 4 rounds , each with certain difficulty levels. For the first 3 rounds there will be elimination based on the team’s performance. The final one will be a knockout round.",
+        "category": "Technical",
+        "imagename": "logica.jpg"
+
+    },
+    {
+        "event_name": "Boole's Paradigm",
+        "event_id": "1006",
+        "event_dept": "Computer Science",
+        "event_link": "https://takshak.in/2018/takshak/technical/",
+        "eventdesc": "I solemnly swear that I am up to code. The title of the Master-Coder is now up for grabs. Are you up for the challenge? Four rounds that tests your logic and wits in intriguing ways. Join the race now and maybe you’ll be the next Master Coder.",
+        "category": "Technical",
+        "imagename": "boole.jpg"
+
+    },
+    {
+        "event_name": "Calypso",
+        "event_id": "1007",
+        "event_dept": "Computer Science",
+        "event_link": "https://takshak.in/2018/takshak/technical/",
+        "eventdesc":  "Excited to play the game of colours,filters, effects and many more on the photographs?Here is a golden chance to fetch your creativity and build up brand new pieces of art.Mould your own tag of professional designer and earn rewards.",
+        "category": "Technical",
+        "imagename": "calypso.jpg"
+
+    },
+    {
+        "event_name": "CAD Maestro",
+        "event_id": "1008",
+        "event_dept": "Civil",
+        "event_link": "https://takshak.in/2018/takshak/technical/",
+        "eventdesc": "Interested in raising your creative skills in surveying .So what are you waiting for?pull your socks up and be ready as the fiesta unveils itself.Broaden your imagination and set off your journey to explore the vibe.",
+        "category": "Technical",
+        "imagename": "cadmaestro.jpg"
+    },
+    {
+        "event_name": "Device Cracking",
+        "event_id": "1008",
+        "event_dept": "Civil",
+        "event_link": "https://takshak.in/2018/takshak/technical/",
+        "eventdesc": "We are changing the world with ever-developing devices. Knowing what is adaptability, knowing how is the magic you possess. Do you have the faith to crack a new one? Come, join with us.",
+        "category": "Technical",
+        "imagename": "devicecrack.jpg"
+
+    },
+    {
+        "event_name": "Exspelliarms",
+        "event_id": "1008",
+        "event_dept": "Civil",
+        "event_link": "https://takshak.in/2018/takshak/technical/",
+        "eventdesc": "A competition to test your skill with spellings through a series of fun tasks over a series of three rounds that test your writing listening and creative skills in the English language. So people put on your thinking hats and get ready to bee witched……….!",
+        "category": "Technical",
+        "imagename": "english.jpg"
+
+    }
+
+
+
+
+]

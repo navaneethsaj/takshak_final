@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context="takshak.mace.takshak2k18.About">
+
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <ss.com.bannerslider.Slider
+                android:id="@+id/banner_slider1"
+                app:slider_interval="2000"
+                app:slider_selectedSlideIndicator="@drawable/indicator_circle_selected"
+                app:slider_unselectedSlideIndicator="@drawable/indicator_circle_unselected"
+                app:slider_loopSlides="true"
+                app:slider_defaultBanner="1"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_margin"
+                android:fontFamily="@font/open_sans"
+                android:text="@string/large_text" />
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+</LinearLayout>

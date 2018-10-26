@@ -1,0 +1,28 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#efefef"
+    android:layout_height="match_parent"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+    tools:context="takshak.mace.takshak2k18.EventFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ListView
+        android:layout_marginTop="10dp"
+        android:layoutAnimation="@anim/lay"
+        android:dividerHeight="30dp"
+        android:divider="@android:color/transparent"
+        android:clickable="true"
+        android:drawSelectorOnTop="true"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:focusable="true"
+        android:id="@+id/listviewEvent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </ListView>
+
+</FrameLayout>
