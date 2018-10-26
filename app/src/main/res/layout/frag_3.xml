@@ -241,6 +241,8 @@
                         android:layout_width="match_parent"
                         android:layout_height="150dp"
                         android:src="@drawable/expo"
+                        android:scaleX=".8"
+                        android:scaleY=".8"
                         android:id="@+id/cseicon"/>
                     <TextView
                         android:layout_width="wrap_content"
