@@ -51,6 +51,7 @@
                 android:layout_height="1dp"
                 android:shadowDx="1"
                 android:shadowColor="@color/login_back"
+                android:background="@color/login_back"
                 android:shadowDy="1"
                 android:shadowRadius="5"
                 android:layout_gravity="center"

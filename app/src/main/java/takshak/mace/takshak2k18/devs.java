@@ -19,6 +19,7 @@ public class devs extends AppCompatActivity {
         setContentView(R.layout.activity_devs);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+        actionBar.hide();
         nav=findViewById(R.id.nav);
         arv=findViewById(R.id.arv);
         aks=findViewById(R.id.aks);
