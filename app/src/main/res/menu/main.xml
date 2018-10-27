@@ -12,4 +12,10 @@
         android:orderInCategory="100"
         android:title="Rate Us"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="100"
+        android:title="Share App"
+        app:showAsAction="never" />
+
 </menu>

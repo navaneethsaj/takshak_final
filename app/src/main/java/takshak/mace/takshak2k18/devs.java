@@ -12,7 +12,7 @@ import android.widget.ImageView;
 import com.squareup.picasso.Picasso;
 
 public class devs extends AppCompatActivity {
-    CardView nav,arv,aks;
+    CardView nav,arv,aks,don;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -23,6 +23,7 @@ public class devs extends AppCompatActivity {
         nav=findViewById(R.id.nav);
         arv=findViewById(R.id.arv);
         aks=findViewById(R.id.aks);
+        don=findViewById(R.id.don);
 
         nav.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -54,6 +55,17 @@ public class devs extends AppCompatActivity {
                     startActivity(intent);
                 } catch(Exception e) {
                     startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.instagram.com/akshay__pradeep_/")));
+                }
+            }
+        });
+        don.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                try {
+                    Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("com.instagram.android.https://www.instagram.com/donattomookken/"));
+                    startActivity(intent);
+                } catch(Exception e) {
+                    startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.instagram.com/donattomookken/")));
                 }
             }
         });

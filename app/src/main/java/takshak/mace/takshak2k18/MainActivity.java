@@ -203,6 +203,14 @@ public class MainActivity extends AppCompatActivity
         if (id == R.id.notify){
             goto_notification();
         }
+        if (id == R.id.share){
+            Intent sendIntent = new Intent();
+            sendIntent.setAction(Intent.ACTION_SEND);
+            sendIntent.putExtra(Intent.EXTRA_TEXT,
+                    "Hey check out Takshak 18 official app @ :\n  https://play.google.com/store/apps/details?id=com.takshak.mace.takshak2k18user");
+            sendIntent.setType("text/plain");
+            startActivity(sendIntent);
+        }
 
         return super.onOptionsItemSelected(item);
     }

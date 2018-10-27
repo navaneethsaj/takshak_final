@@ -52,6 +52,8 @@ public class Tab1 extends Fragment {
     String SONGREQCOUNT = "reqcount";
 
     public final String NAME = "username";
+
+    public final String MOBILENO = "mobileno";
     SharedPreferences.Editor editor;
 
     String url = "https://us-central1-takshakapp18.cloudfunctions.net/requestsong?";
@@ -279,7 +281,7 @@ public class Tab1 extends Fragment {
                     .writeTimeout(4,TimeUnit.SECONDS)
                     .connectTimeout(4,TimeUnit.SECONDS).build();
             String tit = title.getText().toString();
-            String userid = sharedpreferences.getString(USERID, null)+"__"+sharedpreferences.getString(NAME,null);
+            String userid = sharedpreferences.getString(USERID, "")+"__"+sharedpreferences.getString(NAME,"")+"__"+sharedpreferences.getString(MOBILENO,"");
             String more = moreinfo.getText().toString();
             //url = url + "id=" + sharedpreferences.getString(USERID, null) + "&title=" +  + "&artist=noValue" + "&movie=" + movie_genre.getText().toString();
             //url = "https://us-central1-takshakapp18.cloudfunctions.net/requestsong?id=1001&title=baby&artist=null&movie=null";
